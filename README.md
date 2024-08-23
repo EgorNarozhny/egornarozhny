@@ -5,7 +5,9 @@
 
 
 ### My works
-![Test Plan](https://img.shields.io/badge/-Test__Plan-0?style=for-the-badge&logo=python&logoColor=4A89BC)
+[![Test Plan](https://img.shields.io/badge/-Test_Plan-0D1117?style=for-the-badge&logo=python&logoColor=4A89BC)]()
+[![Test Case](https://img.shields.io/badge/-Test_Case-0D1117?style=for-the-badge&logo=python&logoColor=4A89BC)]()
+[![Check List](https://img.shields.io/badge/-Check_List-0D1117?style=for-the-badge&logo=python&logoColor=4A89BC)]()
 
 
 ### Language and Tools
@@ -19,5 +21,4 @@
 ### Follow me
 [![VK](https://img.shields.io/badge/-VK-35365E?style=for-the-badge&logo=vk&logoColor=4388ED)](https://vk.com/egor_skript)
 [![Telegram](https://img.shields.io/badge/-Telegram-35365E?style=for-the-badge&logo=telegram&logoColor=24A0D9)](https://vk.com/egor_skript)
-
 
