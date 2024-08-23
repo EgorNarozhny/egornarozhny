@@ -5,9 +5,9 @@
 
 
 ### My works
-[![Test Plan](https://img.shields.io/badge/-Test_Plan-0D1117?style=for-the-badge&logo=python&logoColor=4A89BC)]()
-[![Test Case](https://img.shields.io/badge/-Test_Case-0D1117?style=for-the-badge&logo=python&logoColor=4A89BC)]()
-[![Check List](https://img.shields.io/badge/-Check_List-0D1117?style=for-the-badge&logo=python&logoColor=4A89BC)]()
+[![Test Plan](https://img.shields.io/badge/-Test_Plan-0D1117?style=for-the-badge&logo=googleearthengine&logoColor=D4E3FC)]()
+[![Test Case](https://img.shields.io/badge/-Test_Case-0D1117?style=for-the-badge&logo=googleearthengine&logoColor=D4E3FC)]()
+[![Check List](https://img.shields.io/badge/-Check_List-0D1117?style=for-the-badge&logo=googleearthengine&logoColor=D4E3FC)]()
 
 
 ### Language and Tools
