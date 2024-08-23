@@ -4,17 +4,20 @@
 ## Junior QA Engineer 
 
 
-My works
+### My works
+![Test Plan](https://img.shields.io/badge/-Test__Plan-0?style=for-the-badge&logo=python&logoColor=4A89BC)
 
 
-## Language and Tools
-![Python(https://www.python.org)](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=4A89BC)
-![Selenium](https://img.shields.io/badge/-selenium-black?style=for-the-badge&logo=selenium&logoColor=#00A71B)
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=E84E31)
-![SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=postgresql&logoColor=31648C)
-![Jira](https://img.shields.io/badge/-jira-black?style=for-the-badge&logo=jira&logoColor=2580F5)
+### Language and Tools
+![Python](https://img.shields.io/badge/-Python-35365E?style=for-the-badge&logo=python&logoColor=4A89BC)
+![Python](https://img.shields.io/badge/-PyTest-35365E?style=for-the-badge&logo=pytest&logoColor=DF2815)
+![Selenium](https://img.shields.io/badge/-selenium-35365E?style=for-the-badge&logo=selenium&logoColor=#00A71B)
+![Git](https://img.shields.io/badge/-Git-35365E?style=for-the-badge&logo=git&logoColor=E84E31)
+![SQL](https://img.shields.io/badge/-SQL-35365E?style=for-the-badge&logo=postgresql&logoColor=31648C)
+![Jira](https://img.shields.io/badge/-jira-35365E?style=for-the-badge&logo=jira&logoColor=2580F5)
 
-Follow me
-
+### Follow me
+[![VK](https://img.shields.io/badge/-VK-35365E?style=for-the-badge&logo=vk&logoColor=4388ED)](https://vk.com/egor_skript)
+[![Telegram](https://img.shields.io/badge/-Telegram-35365E?style=for-the-badge&logo=telegram&logoColor=24A0D9)](https://vk.com/egor_skript)
 
 
