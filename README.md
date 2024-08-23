@@ -5,9 +5,12 @@
 
 
 ### My works
-[![Test Plan](https://img.shields.io/badge/-Test_Plan-0D1117?style=for-the-badge&logo=googleearthengine&logoColor=D4E3FC)]()
-[![Test Case](https://img.shields.io/badge/-Test_Case-0D1117?style=for-the-badge&logo=googleearthengine&logoColor=D4E3FC)]()
-[![Check List](https://img.shields.io/badge/-Check_List-0D1117?style=for-the-badge&logo=googleearthengine&logoColor=D4E3FC)]()
+- [Checklists]()
+- [Test-Suites and Test-Cases]()
+- [Bug-Reports]()
+- [SQL Queries]()
+- [Postman Collections]()
+
 
 
 ### Language and Tools
@@ -17,8 +20,10 @@
 ![Git](https://img.shields.io/badge/-Git-35365E?style=for-the-badge&logo=git&logoColor=E84E31)
 ![SQL](https://img.shields.io/badge/-SQL-35365E?style=for-the-badge&logo=postgresql&logoColor=31648C)
 ![Jira](https://img.shields.io/badge/-jira-35365E?style=for-the-badge&logo=jira&logoColor=2580F5)
+![Postman](https://img.shields.io/badge/-postman-35365E?style=for-the-badge&logo=postman&logoColor=FE6C37)
+![swagger](https://img.shields.io/badge/-swaggre-35365E?style=for-the-badge&logo=swagger&logoColor=668617)
 
 ### Follow me
-[![VK](https://img.shields.io/badge/-VK-35365E?style=for-the-badge&logo=vk&logoColor=4388ED)](https://vk.com/egor_skript)
+[![VK](https://img.shields.io/badge/-VKontakte-35365E?style=for-the-badge&logo=vk&logoColor=4388ED)](https://vk.com/egor_skript)
 [![Telegram](https://img.shields.io/badge/-Telegram-35365E?style=for-the-badge&logo=telegram&logoColor=24A0D9)](https://vk.com/egor_skript)
 
